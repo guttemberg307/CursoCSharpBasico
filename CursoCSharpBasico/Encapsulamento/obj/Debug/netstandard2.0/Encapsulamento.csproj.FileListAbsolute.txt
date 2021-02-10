@@ -1,0 +1,27 @@
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.deps.json
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.deps.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.deps.json
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\bin\Debug\netstandard2.0\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.dll
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\Encapsulamento\obj\Debug\netstandard2.0\Encapsulamento.pdb

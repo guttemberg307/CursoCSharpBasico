@@ -1,0 +1,64 @@
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp1\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CopyComplete
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\Gutemberg Silva\OneDrive - IBlue Consulting\Área de Trabalho\Nova pasta (4)\CursoCSharpBasico\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
