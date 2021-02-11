@@ -59,7 +59,7 @@ namespace CursoCSharp.TopicosAvancados
             var mediaDaTurma = alunos.Average(aluno => aluno.Nota);// AVERAGE faz a media da lista da turma 
             Console.WriteLine(mediaDaTurma);
 
-            var MediaDosAprovavos = alunos.Where(a => a.Nota >= 7).Average(aluno => aluno.Nota);
+            var MediaDosAprovavos = alunos.Where(a => a.Nota >= 7).Average(aluno => aluno.Nota); // todos os alunos filtrados "WHERE" pela nota >=7 e logo apos fazendo a media com Average das notas remanescentes 
             Console.WriteLine(MediaDosAprovavos);
 
         }
