@@ -11,9 +11,6 @@ namespace CursoCSharp.TopicosAvancados
         public int Idade;
         public double Nota;
 
-
-
-
     }
     class LINQ1 // Linguage INtegrade Quare // linguagem de consulta integrada 
     {
