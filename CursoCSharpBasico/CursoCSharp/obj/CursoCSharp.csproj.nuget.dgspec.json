@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\Gutemberg Silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj": {
-                "projectPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj"
+              "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj": {
+    "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
+        "projectPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\Gutemberg Silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\obj\\",
+        "outputPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

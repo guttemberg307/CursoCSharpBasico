@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
+      "projectUniqueName": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
       "projectName": "Encapsulamento",
-      "projectPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
+      "projectPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\Gutemberg Silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gutemberg Silva\\OneDrive - IBlue Consulting\\Área de Trabalho\\Nova pasta (4)\\CursoCSharpBasico\\Encapsulamento\\obj\\",
+      "outputPath": "C:\\Users\\Gutemberg Silva\\source\\repos\\CursoCSharpBasico\\CursoCSharpBasico\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
