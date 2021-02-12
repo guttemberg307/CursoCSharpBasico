@@ -14,11 +14,11 @@ namespace CursoCSharp.TopicosAvancados
            
             meuObjeto = 3; // incrementou um numero inteiro 
             meuObjeto++; // incrementa mais um numero 
-
-
             Console.WriteLine(meuObjeto);
 
-            dynamic aluno = new System.Dynamic.ExpandoObject();
+            
+
+            dynamic aluno = new System.Dynamic.ExpandoObject();// cria objetos com atributos de forma dinamica 
             aluno.nome = "Maria Julia";
             aluno.nota = 8.9;
             aluno.idade = 24;
