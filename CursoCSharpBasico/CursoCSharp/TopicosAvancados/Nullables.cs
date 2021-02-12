@@ -31,7 +31,7 @@ namespace CursoCSharp.TopicosAvancados
 
             try
             {
-                int x = num1.Value; // num nao pegou o valor padrao e sim o Velue 
+                int x = num1.Value; // num nao pegou o valor padrao e sim o Value 
                 int y = num2.Value;
                 Console.WriteLine(x + y);
             }

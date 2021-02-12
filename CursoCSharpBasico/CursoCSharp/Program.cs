@@ -102,7 +102,7 @@ namespace CursoCSharp {
                 // Excecões 
      
                 {"Primeria Excecao - Exceções ",PrimeiraExcecao.Executar },
-                {" Excecoes Personalizadas - Exceções ", ExcecoesPersonalizadas.Executar },
+                {"Excecoes Personalizadas - Exceções ", ExcecoesPersonalizadas.Executar },
                 
 
                 //Api
@@ -121,6 +121,7 @@ namespace CursoCSharp {
                 {"LINQ #01 - Tópicos Avançados",LINQ1.Executar },
                 {"LINQ #02 - Tópicos Avançados",LINQ2.Executar },
                 {"Nullables - Tópicos Avançados",Nullables.Executar },
+                {"Dynamics - Tópicos Avançados",Dynamics.Executar },
 
 
 

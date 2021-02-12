@@ -29,7 +29,7 @@ namespace CursoCSharp.TopicosAvancados
 
             };
 
-            Console.WriteLine("======== Aprovados===============");
+            Console.WriteLine("=======================================Aprovados===============");
             // a == alunos 
             //var aprovados = alunos.Where(a => true); // lista de alunos que tem 7 elementos // onde o WHERE recebe uma função lanbda de verdadeiro onde todos estarao na lista de aprovados 
             //var aprovados = alunos.Where(a => false); //WHERE recebe uma função lanbda de falso onde não estarao na lista de aprovados 
@@ -42,7 +42,7 @@ namespace CursoCSharp.TopicosAvancados
                 Console.WriteLine(aluno.Nome);
 
             }
-            Console.WriteLine("\n=========Chamada ============");
+            Console.WriteLine("\n========================Chamada ==============================");
 
             var chamada =  alunos.OrderBy(a => a.Nome).Select(a => a.Nome); // chamada recebe os alunos ordenados por uma lista alfabetica usando Orderby onde o SELECT retornara somente o nome 
             foreach( var aluno in chamada)
